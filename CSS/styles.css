@@ -1,0 +1,25 @@
+h1{
+    background: fixed;
+    background-color: chocolate;
+    text-align: center;
+    align-self: auto;
+}
+h2{
+    background-color: blue;
+    text-align: center;
+    text-emphasis-color: yellow;
+    align-self: auto;
+}
+h3{
+    text-decoration: dotted;
+    text-anchor: middle;
+    background-color: aqua;
+}
+ol{
+    background-color: rgb(167, 163, 167);
+    text-shadow: 0ex;
+    text-rendering: inherit;
+    color: black;
+    text-align: inherit;
+    text-indent: 0rem;
+}
